@@ -1,20 +1,14 @@
 # Chainlink Betting Game on Avalanche
 
-#Introduction 
+# Introduction 
 This is a blockchain based betting game where  you can bet on the outcome of a dice roll with cryptocurrency and if you guessed right then you  double your money this game is powered by ethereum smart contacts thats run on the blockchain and we’re going to use the chainlink protocol to implement randomness for out dice roll. 
 
-
-
-
-
-
-
-#Begain with
+# Begin with
 
  Here is the application will work when the user will connect to their web browser with metamask they’ll talk to a front-end application built in react.js and then application will talk directly to the ethereum blockchain and on the blockchain we’ll create a smart contract that implements the betting game and that’s going to use the chainlink protocol which of course talked to the chainlink smart contacts. So the user flow is here is that they make a bet to directly to our smart contacts with the funded application ,if they guess the number right thet will win twice the amount of cryptocurrency that they bet.
 
 
-# requirements 
+# Requirements 
 Node.js 
 Chainlink
 Metamask 
